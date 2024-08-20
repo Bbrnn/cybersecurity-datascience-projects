@@ -1,7 +1,7 @@
 
 # Cybersecurity and Data Science Projects
 
-Welcome to the **Cybersecurity and Data Science Projects** repository! This repository contains a collection of projects that explore the intersection of cybersecurity and data science. The aim is to leverage data science techniques to enhance cybersecurity practices and solutions.
+Welcome to the **Cybersecurity and Data Science Projects** repository! This repository contains a collection of projects that I want to do that explore the intersection of cybersecurity and data science. The aim is to leverage data science techniques to enhance cybersecurity practices and solutions. If you'd like to collaborate just find my contact below and we could collaborate
 
 ## Projects Overview
 
@@ -60,10 +60,11 @@ Welcome to the **Cybersecurity and Data Science Projects** repository! This repo
    - **Reasoning:** Threat hunting involves complex data analysis and visualization, often requiring advanced techniques and tools to identify and understand hidden threats.
 
 ### 10. **Threat Intelligence Platform**
-    - **Description:** Create a platform to collect, analyze, and visualize threat intelligence data.
-    - **Technologies:** Python, Flask, D3.js, PostgreSQL
-    - **Datasets:** [MITRE ATT&CK](https://attack.mitre.org/), [OpenThreat Research](https://www.openthreatresearch.org/)
-    - **Reasoning:** Building a comprehensive platform involves integrating various components (data collection, analysis, visualization) and handling complex data sources, making it the most complex project.
+  - **Description:** Create a platform to collect, analyze, and visualize threat intelligence data.
+  - **Technologies:** Python, Flask, D3.js, PostgreSQL
+  -  **Datasets:** [MITRE ATT&CK](https://attack.mitre.org/), [OpenThreat Research](https://www.openthreatresearch.org/)
+  -  **Reasoning:** Building a comprehensive platform involves integrating various components (data collection, analysis, visualization) and handling complex data sources, making it the most complex project.   - 
+  
 
 ## Getting Started
 
